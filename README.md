@@ -12,7 +12,9 @@ The aim of this project is to analyze data from the E-Commerce Public Dataset. T
 
 - **/dataset**: This directory holds the data used in the project, in .csv format.
 - **/streamlit**: This directory contains main.py used to create the data analysis dashboard.
-- **Data_Analysis_Project.ipynb**: This file is utilized for data analysis.
+- **Submission.ipynb**: This file is utilized for data analysis.
+- **Requirements.txt**: This file lists the dependencies and their versions required to run the project.
+
 
 ## Installation
 
